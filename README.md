@@ -1,0 +1,1 @@
+# DynamoDB-batch-write-delete-using-cli
